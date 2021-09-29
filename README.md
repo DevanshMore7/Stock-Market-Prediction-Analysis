@@ -1,0 +1,2 @@
+# Stock-Market-Prediction-Analysis
+In this project we propose a Machine Learning (ML) approach that will be trained from the available stocks data and gain intelligence and  then  uses  the  acquired  knowledge  for  an  accurate prediction. In this context this study uses a machine learning technique called Support Vector Machine (SVM) to predict stock prices for the large and small capitalizations and in the three different markets, employing prices with both daily and up-to-the-minute frequencies.
